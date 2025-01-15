@@ -1,0 +1,21 @@
+body {
+    padding-top: 56px;
+  }
+  
+  .carousel-inner img {
+    width: 100%;
+    height: auto;
+  }
+.navbar-custom {
+    background-color: #b328c0; 
+    color: rgb(80, 134, 114);
+}
+
+.navbar-custom .navbar-brand, 
+.navbar-custom .nav-link {
+    color: rgb(139, 18, 85);
+}
+
+.navbar-custom .nav-link:hover {
+    color: #25b4d8;
+}

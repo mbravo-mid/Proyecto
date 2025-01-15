@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>index.html</link>
+    </item>
+        <item>
+        <nombre>Iniciar test</nombre>
+        <link>iniciar.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>resul.html</link>
+    </item>
+    <item>
+        <nombre>Temas Populares</nombre>
+        <link>navespacial.html</link>
+    </item>
+
+    <item>
+        <nombre>Recurso de estudios</nombre>
+        <link>recurso.html</link>
+    </item>
+    <item>
+        <nombre>Estadisticas</nombre>
+        <link>estad.html</link>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>faq.html</link>
+    </item>
+    <item>
+        <nombre>Contacto</nombre>
+        <link>contacto.html</link>
+    </item>
+
+</menu>

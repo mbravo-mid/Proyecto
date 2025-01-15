@@ -1,0 +1,26 @@
+[
+    {
+        "nro": 1,
+        "tipotest": "historia",
+        "duracion": 1,
+        "genero": "Tecnología"
+    },
+    {
+        "nro": 2,
+        "tipotest": "geografia",
+        "duracion": 7,
+        "genero": "tecnologia"
+    },
+    {
+        "nro": 3,
+        "tipotest": "lenguaje",
+        "duracion": 12,
+        "genero": "tecnologia"
+    },
+    {
+        "nro": 3,
+        "tipotest": "arte",
+        "duracion": 12,
+        "genero": "tecnologia "
+    }
+]
